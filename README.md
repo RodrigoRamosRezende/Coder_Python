@@ -1,6 +1,6 @@
-# CoderHouse_Python
-Repositório para armazenar os exercícios referente ao curso Python da CoderHouse.
+# CoderHouse
+Repositório para armazenar os exercícios desenvolvidos.
 
-  Aluno: Rodrigo Ramos Rezende
-  Curso: Python
-  Turma: 54330.
+	Aluno: Rodrigo Ramos Rezende
+	Curso: Python
+	Turma: 54330
