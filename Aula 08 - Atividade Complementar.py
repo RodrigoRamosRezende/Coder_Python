@@ -19,7 +19,7 @@ df = df[(df["Discontinuation Year"] - df["Released Year"]) < 2]
 print("\nDataFrame após as operações:")
 print(df)
 #De um Describe
-print("Descrição da base de dados:")
+print("\nDescrição da base de dados:")
 print(df.describe().round())
 ##De um Info da Base
 print("\nInformações da base de dados:")
