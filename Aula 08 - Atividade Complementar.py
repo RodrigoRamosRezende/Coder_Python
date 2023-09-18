@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_excel("best-selling game consoles.xlsx", sheet_name='consoles')
 
 #Substitua a palavra "NES" por "Nitendinho" no nome dos consoles e deixe todos os nomes em maiúsculos
-df["Console Name"] = df["Console Name"].str.replace("NES", "Nitendinho").str.upper()
+df["Console Name"] = df["Console Name"].str.replace(r'\bNES\b','nitendinho',regex=True).str.upper()
 
 #Filtre o nome dos consoles com data de release depois de 2010
 df = df[df["Released Year"] > 2010]
@@ -20,7 +20,7 @@ print("\nDataFrame após as operações:")
 print(df)
 #De um Describe
 print("\nDescrição da base de dados:")
-print(df.describe().round())
+print(df.describe())
 ##De um Info da Base
 print("\nInformações da base de dados:")
 print(df.info())
