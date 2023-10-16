@@ -5,7 +5,7 @@ Repositório dos exercícios desenvolvidos.
 	Curso: Python
 	Turma: 54330
 
-# Projeto de Utilização da API Brasil
+# Projeto Final - API Brasil
 
 Este é um projeto que utiliza a API Brasil para obter informações relacionadas ao Brasil, como dados sobre estados, municípios, entre outros. O projeto é baseado no código disponível [aqui](https://github.com/RodrigoRamosRezende/Coder_Python/blob/main/Projeto%20Final.ipynb).
 
