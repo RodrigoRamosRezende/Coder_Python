@@ -36,7 +36,7 @@ Siga estas etapas para executar o projeto:
 3. Abra o arquivo Projeto Final.ipynb no Jupyter Notebook e execute as células de código conforme necessário.
 
 ## Autor
-Este projeto foi desenvolvido por Rodrigo Ramos.
+Este projeto foi desenvolvido por Rodrigo Ramos e Vanessa Mandu.
 
 ## Agradecimentos
 Gostaria de expressar meus sinceros agradecimentos aos professores do CoderHouse por fornecerem orientação e conhecimento valiosos ao longo do curso.
