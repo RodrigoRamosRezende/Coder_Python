@@ -39,4 +39,4 @@ Siga estas etapas para executar o projeto:
 Este projeto foi desenvolvido por Rodrigo Ramos e Vanessa Mandu.
 
 ## Agradecimentos
-Gostaria de expressar meus sinceros agradecimentos aos professores do CoderHouse por fornecerem orientação e conhecimento valiosos ao longo do curso.
+Gostaria de expressar meus sinceros agradecimentos aos professores Leandro Zanon e ao Lucas Massucci da CoderHouse por fornecerem orientação e conhecimento valiosos ao longo do curso.
